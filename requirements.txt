@@ -1,0 +1,5 @@
+pandas
+plotly.express
+matplotlib.pyplot
+numpy
+tableau
