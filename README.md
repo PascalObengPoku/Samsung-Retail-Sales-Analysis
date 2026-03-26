@@ -1,5 +1,5 @@
 # Samsung-Retail-Sales-Analysis
-Retail sales data analysis and visualization project using Python and Tableau, focused on Samsung products.
+Retail sales data analysis and visualization project using Python focused on Samsung products.
 
 # Project Overview
 This project focuses on analyzing a retail forecasting dataset for Samsung products. The goal was to clean, transform, and analyze the data to uncover insights that can support business decision-making.
