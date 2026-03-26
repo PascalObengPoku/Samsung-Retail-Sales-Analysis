@@ -12,9 +12,9 @@ Outliers were detected and handled
 Data types were corrected for analysis
 
 # Tools & Technologies
-Python (Pandas, NumPy)
-Tableau
+Python (Pandas, NumPy, Seaborn, Matplotlib, Linear Regression, Prophet)
 Jupyter Notebook / PyCharm
+Microsoft Powerpoint(Presentation)
 
 # Data Analysis
 After cleaning, the data was aggregated and analyzed to answer key business questions:
@@ -29,7 +29,7 @@ What sales channel was most used?
 What payment method was most used?
 
 # Visualization
-An interactive dashboard was created in Tableau to present insights:
+A graphical representation of the analysis and forecast was created in Jupyter to present insights:
 Sales trends over time
 Revenue by region and country
 Top-performing products
