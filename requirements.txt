@@ -2,4 +2,6 @@ pandas
 plotly.express
 matplotlib.pyplot
 numpy
-tableau
+prophet
+linear regression
+microsoft powerpoint
