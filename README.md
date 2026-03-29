@@ -121,7 +121,7 @@ _Implication: Samsung has strong market penetration in developed regions but unt
 ### _Key visualizations include:_
  
 - Revenue by Product Name ![Revenue by Product](https://github.com/PascalObengPoku/Samsung-Retail-Sales-Analysis/blob/main/visualization/Revenue%20by%20Product.png)
-- Regional sales comparison ![Revenue by Region]()
+- Regional sales comparison ![Revenue by Region](https://github.com/PascalObengPoku/Samsung-Retail-Sales-Analysis/blob/main/visualization/Revenue%20by%20Region.png)
 
 (See notebook for full analysis and charts)
 
