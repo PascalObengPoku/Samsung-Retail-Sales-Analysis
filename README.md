@@ -26,7 +26,7 @@ Source: Kaggle
 Records: Transaction-level sales data
 
 
-_Key Features:_
+### _Key Features:_
 
 - Date
 
@@ -73,31 +73,31 @@ _Key Features:_
 
 ## Key Insights
 
-•	Strong Seasonality in Sales
+### •	Strong Seasonality in Sales
 - Sales show clear peaks during specific periods(likely festive seasons)
 
 - Q4 consistently consistently records the highest revenue
 
 _Implication: Inventory and staffing should be increased ahead of peak periods_ 
 
-•	Revenue is Concentrated in Few Products
+### •	Revenue is Concentrated in Few Products
 - A small number of products contribute a large percentage of total sales
 
 _Implication: Focus marketing and promotions on top performing products to maximize revenue_
 
-•	Significant Variation Across Product Categories
+### •	Significant Variation Across Product Categories
 - Certain categories outperform others consistently
 
 - Low-performing categories contribute minimally to total revenue
 
 _Implication: Reassess underperforming categories and optimize product mix_
 
-•	Sales Trends Show Growth Potential
+#### •	Sales Trends Show Growth Potential
 - Overall sales trend indictes gradual growth over time
 
 _Implication: Business expansion and increased inventory investment may be justified_
 
-•	Regional Differences in Sales Performance
+### •	Regional Differences in Sales Performance
 - Some regions outperform others significantly
 
 _Implication: Replicate successful strategies in high-performing regions; investigate causes of low performance in weaker regions_
@@ -106,7 +106,7 @@ _Implication: Replicate successful strategies in high-performing regions; invest
 
 ## Visualizations
 
-_Key visualizations include:_
+### _Key visualizations include:_
 
 •	Sales trend over time
 •	Revenue by product/category
@@ -117,7 +117,7 @@ _Key visualizations include:_
 
 ## Recommendations
 
-_Based on the analysis:_
+### _Based on the analysis:_
 
 -	Increase inventory before peak sales periods
 -	Focus marketing efforts on top-performing products
