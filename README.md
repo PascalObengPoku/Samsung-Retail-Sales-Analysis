@@ -74,31 +74,31 @@ _Key Features:_
 ## Key Insights
 
 •	Strong Seasonality in Sales
--Sales show clear peaks during specific periods(likely festive seasons)
+- Sales show clear peaks during specific periods(likely festive seasons)
 
--Q4 consistently consistently records the highest revenue
+- Q4 consistently consistently records the highest revenue
 
 _Implication: Inventory and staffing should be increased ahead of peak periods_ 
 
 •	Revenue is Concentrated in Few Products
--A small number of products contribute a large percentage of total sales
+- A small number of products contribute a large percentage of total sales
 
 _Implication: Focus marketing and promotions on top performing products to maximize revenue_
 
 •	Significant Variation Across Product Categories
--Certain categories outperform others consistently
+- Certain categories outperform others consistently
 
--Low-performing categories contribute minimally to total revenue
+- Low-performing categories contribute minimally to total revenue
 
 _Implication: Reassess underperforming categories and optimize product mix_
 
 •	Sales Trends Show Growth Potential
--Overall sales trend indictes gradual growth over time
+- Overall sales trend indictes gradual growth over time
 
 _Implication: Business expansion and increased inventory investment may be justified_
 
 •	Regional Differences in Sales Performance
--Some regions outperform others significantly
+- Some regions outperform others significantly
 
 _Implication: Replicate successful strategies in high-performing regions; investigate causes of low performance in weaker regions_
 
@@ -129,17 +129,17 @@ _Based on the analysis:_
 
 ## Tools & Technologies
 
--Python
+- Python
 
--Pandas
+- Pandas
 
--Matplotlib/Seaborn
+- Matplotlib/Seaborn
 
--Jupyter Notebook
+- Jupyter Notebook
 
--Prophet
+- Prophet
 
--Microsoft Powerpoint(Presentation)
+- Microsoft Powerpoint(Presentation)
 
 
 
