@@ -1,12 +1,12 @@
-#**Samsung Retail Sales Analysis**
+#Samsung Retail Sales Analysis
 
 
-__Project Overview__
+##Project Overview__
 
 This project analyzes Samsung retail sales data to uncover key trends, identify high-performing products, and provide actionable insights to improve revenue and business decision-making.
 
 
-__Business Problem__
+##Business Problem__
 
 Retail businesses often struggle to:
 
@@ -19,7 +19,7 @@ Retail businesses often struggle to:
 This project aims to solve these challenges by analyzing historical sales data and extracting meaningful insights.
 
 
-__Dataset__
+##Dataset__
 
 Source: Kaggle
 
@@ -42,30 +42,30 @@ _Key Features:_
 
 
 
-__Methodology__
+##Methodology__
 
-__Data Cleaning__
+###Data Cleaning__
 
 -Handled missing values
 -Converted date columns to datetime format
 -Removed duplicates and inconsistencies
 
 
-__Exploratory Data Analysis__
+###Exploratory Data Analysis__
 
 -Analyzed sales trends over time
 -Examined product and category performance
 -Compared regional sales distribution
 
 
-__Data Visualization__
+###Data Visualization__
 
 -Time series plots for sales trends
 -Bar charts for product/category performance
 -Distribution plots for sales patterns
 
 
-__Key Insights__
+##Key Insights__
 
 •	Strong Seasonality in Sales
 -Sales show clear peaks during specific periods(likely festive seasons)
@@ -96,7 +96,7 @@ _Implication: Replicate successful strategies in high-performing regions; invest
 
 
 
-__Visualizations__
+##Visualizations__
 
 _Key visualizations include:_
 
@@ -107,7 +107,7 @@ _Key visualizations include:_
 
 
 
-__Recommendations__
+##Recommendations__
 
 _Based on the analysis:_
 
@@ -119,7 +119,7 @@ _Based on the analysis:_
  
 
 
-__Tools & Technologies__
+##Tools & Technologies__
 
 -Python
 
@@ -135,13 +135,13 @@ __Tools & Technologies__
 
 
 
-__Conclusion__
+##Conclusion__
 
 This analysis provides data driven insights into Samsung retail sales performance. By leveraging these findings, businesses can make informed decisions to optimize revenue, improve inventory management, and enhance overall operational efficiency.
 
 
 
-__Author__
+##Author__
 
 Pascal Obeng-Poku
 
