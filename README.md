@@ -1,4 +1,5 @@
 **Samsung Retail Sales Analysis**
+
 __Project Overview__
 
 This project analyzes Samsung retail sales data to uncover key trends, identify high-performing products, and provide actionable insights to improve revenue and business decision-making.
@@ -8,13 +9,17 @@ __Business Problem__
 Retail businesses often struggle to:
 
 -Identify which products drive the most revenue
+
 -Understand sales pattern across time
+
 -Optimize inventory and marketing strategies
 
 This project aims to solve these challenges by analyzing historical sales data and extracting meaningful insights.
 
 __Dataset__
+
 Source: Kaggle
+
 Records:Transaction-level sales data
 
 _Key Features:_
