@@ -10,11 +10,11 @@ This project analyzes Samsung retail sales data to uncover key trends, identify 
 
 Retail businesses often struggle to:
 
--Identify which products drive the most revenue
+- Identify which products drive the most revenue
 
--Understand sales pattern across time
+- Understand sales pattern across time
 
--Optimize inventory and marketing strategies
+- Optimize inventory and marketing strategies
 
 This project aims to solve these challenges by analyzing historical sales data and extracting meaningful insights.
 
@@ -28,17 +28,17 @@ Records: Transaction-level sales data
 
 _Key Features:_
 
--Date
+- Date
 
--Product Category
+- Product Category
 
--Product Name
+- Product Name
 
--Sales Revenue
+- Sales Revenue
 
--Quantity Sold
+- Quantity Sold
 
--Region
+- Region
 
 
 
@@ -46,29 +46,29 @@ _Key Features:_
 
 ### Data Cleaning
 
--Handled missing values
+- Handled missing values
 
--Converted date columns to datetime format
+- Converted date columns to datetime format
 
--Removed duplicates and inconsistencies
+- Removed duplicates and inconsistencies
 
 
 ### Exploratory Data Analysis
 
--Analyzed sales trends over time
+- Analyzed sales trends over time
 
--Examined product and category performance
+- Examined product and category performance
 
--Compared regional sales distribution
+- Compared regional sales distribution
 
 
 ### Data Visualization
 
--Time series plots for sales trends
+- Time series plots for sales trends
 
--Bar charts for product/category performance
+- Bar charts for product/category performance
 
--Distribution plots for sales patterns
+- Distribution plots for sales patterns
 
 
 ## Key Insights
