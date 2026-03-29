@@ -74,35 +74,39 @@ Records: Transaction-level sales data
 ## Key Insights
 
 ### •	Strong Seasonality in Sales
-- Sales show clear peaks during specific periods(likely festive seasons)
 
-- Q4 consistently consistently records the highest revenue
+- Peak Months: October, January, December
+- Lowest Month: February
 
-_Implication: Inventory and staffing should be increased ahead of peak periods_ 
+_Implication: Revenue is seasonally driven, with strong Q4 performance._
 
 ### •	Revenue is Concentrated in Few Products
-- A small number of products contribute a large percentage of total sales
 
-_Implication: Focus marketing and promotions on top performing products to maximize revenue_
+- Top-performing products are dominated by Galaxy Z Fold and Galaxy S Ultra series.
+- Premium pricing strategy is highly effective.
+
+_Implication: Revenue growth is currently driven by high-value devices rather than volume alone._
+
 
 ### •	Significant Variation Across Product Categories
-- Certain categories outperform others consistently
 
-- Low-performing categories contribute minimally to total revenue
+- Smart TVs lead revenue ($5.56M), followed by Galaxy S and Galaxy Z.
 
-_Implication: Reassess underperforming categories and optimize product mix_
+_Implication: Samsung benefits from a diversified ecosystem, enabling cross-selling opportunities._
 
 #### •	Sales Trends Show Growth Potential
-- Overall sales trend indictes gradual growth over time
 
-_Implication: Business expansion and increased inventory investment may be justified_
+- Revenue remains stable between $5.59M – $5.87M
+- Slight dip observed in 2024
+
+_Implication: Samsung operates in a mature and competitive market, requiring innovation for growth._
 
 ### •	Regional Differences in Sales Performance
-- Some regions outperform others significantly
 
-_Implication: Replicate successful strategies in high-performing regions; investigate causes of low performance in weaker regions_
+- Europe ($2.39M) and Asia ($1.90M) are the strongest markets.
+- Emerging regions (Africa, South America) show growth potential.
 
-
+_Implication: Samsung has strong market penetration in developed regions but untapped potential in emerging markets._
 
 ## Visualizations
 
@@ -119,11 +123,11 @@ _Implication: Replicate successful strategies in high-performing regions; invest
 
 ### _Based on the analysis:_
 
--	Increase inventory before peak sales periods
--	Focus marketing efforts on top-performing products
--	Reduce or optimize low-performing product categories
--	Expand strategies used in high-performing regions
--	Use forecasting models to improve demand planning
+- Diversify beyond premium products
+- Expand aggressively into emerging markets
+- Leverage seasonality more effectively
+- Strengthen ecosystem-based sales
+- Maintain a balanced omnichannel strategy
  
 
 
