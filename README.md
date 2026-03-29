@@ -47,21 +47,27 @@ _Key Features:_
 ### Data Cleaning
 
 -Handled missing values
+
 -Converted date columns to datetime format
+
 -Removed duplicates and inconsistencies
 
 
 ### Exploratory Data Analysis
 
 -Analyzed sales trends over time
+
 -Examined product and category performance
+
 -Compared regional sales distribution
 
 
 ### Data Visualization
 
 -Time series plots for sales trends
+
 -Bar charts for product/category performance
+
 -Distribution plots for sales patterns
 
 
@@ -69,6 +75,7 @@ _Key Features:_
 
 •	Strong Seasonality in Sales
 -Sales show clear peaks during specific periods(likely festive seasons)
+
 -Q4 consistently consistently records the highest revenue
 
 _Implication: Inventory and staffing should be increased ahead of peak periods_ 
@@ -80,6 +87,7 @@ _Implication: Focus marketing and promotions on top performing products to maxim
 
 •	Significant Variation Across Product Categories
 -Certain categories outperform others consistently
+
 -Low-performing categories contribute minimally to total revenue
 
 _Implication: Reassess underperforming categories and optimize product mix_
