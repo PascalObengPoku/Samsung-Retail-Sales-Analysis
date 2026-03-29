@@ -123,6 +123,7 @@ _Implication: Samsung has strong market penetration in developed regions but unt
 - Sales trend over time ()
 - Revenue by Product Name ![Revenue by Product](visualization/Revenue by Product.png)
 - Regional sales comparison ![Revenue by Region](visualization/Revenue by Region.png)
+
 (See notebook for full analysis and charts)
 
 
