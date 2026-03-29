@@ -7,9 +7,9 @@ __Business Problem__
 
 Retail businesses often struggle to:
 
-Identify which products drive the most revenue
-Understand sales pattern across time
-Optimize inventory and marketing strategies
+-Identify which products drive the most revenue
+-Understand sales pattern across time
+-Optimize inventory and marketing strategies
 
 This project aims to solve these challenges by analyzing historical sales data and extracting meaningful insights.
 
