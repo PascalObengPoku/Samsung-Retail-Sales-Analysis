@@ -108,6 +108,14 @@ _Implication: Samsung operates in a mature and competitive market, requiring inn
 
 _Implication: Samsung has strong market penetration in developed regions but untapped potential in emerging markets._
 
+## Key Metrics
+- Total Revenue: $22,911,258
+- Total Quantity Sold: 36,580
+- Best Performing Product: Smart TV (Samsung Neo QLED 8K QN900C)
+- Best Quarter: Fourth(Q4)
+- Best Months: October
+- Best Region: Europe
+
 ## Visualizations
 
 ### _Key visualizations include:_
