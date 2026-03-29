@@ -122,10 +122,15 @@ _Based on the analysis:_
 __Tools & Technologies__
 
 -Python
+
 -Pandas
+
 -Matplotlib/Seaborn
+
 -Jupyter Notebook
+
 -Prophet
+
 -Microsoft Powerpoint(Presentation)
 
 
