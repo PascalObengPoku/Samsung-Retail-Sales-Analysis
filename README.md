@@ -1,4 +1,4 @@
-**Samsung Retail Sales Analysis**
+#**Samsung Retail Sales Analysis**
 
 
 __Project Overview__
